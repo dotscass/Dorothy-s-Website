@@ -1,0 +1,18 @@
+Installation Guide
+
+1. You need to download all from repository root and unzip A.zip.
+
+2. SQL can be found in repository root in the database folder.
+2. extract contents to a webserver such as xampp
+3. copy the extracted folder to the htdocs folder of the webserver e.g. C:\xampp\htdocs
+4. Open your browser
+5. type into the browser window: http://localhost/MWebsite/Website.html
+6. then you will see the module website contents, click on project to view the final project website.
+
+Note:
+For demonstrations purposes only the first two products in the soap section work as in they appear in the cart.
+
+
+To set up the database table in mysql carry out the commands in the sql file:
+
+
